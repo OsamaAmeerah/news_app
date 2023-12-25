@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Shreyashi Sanyal",
+    "title": "South Korea outperforms for the week as Asia markets fall on Powell comments - CNBC",
+    "description": "Asia-Pacific markets opened softer amid a downbeat tone set by U.S. markets overnight.",
+    "url": "https://www.cnbc.com/2023/11/10/live-updates-asia-markets-set-for-declines-after-powell-comments-.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107132230-1665444692419-gettyimages-1237689867-JAPAN_STOCK.jpeg?v=1687304203&w=1920&h=1080",
+    "publishedAt": "2023-11-10T06:52:00Z",
+    "content": "Federal Reserve Governor Michelle Bowman said Thursday she still expects interest rates to rise but supported the decision earlier this month to hold.\r\n\"There is an unusually high level of uncertaint… [+1172 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SamMobile"
+    },
+    "author": "SamMobile, Asif Iqbal Shaik",
+    "title": "Galaxy S23 gets stable Android 14 and One UI 6.0 update in the US - SamMobile - Samsung news",
+    "description": "A few weeks ago, Samsung released the stable Android 14 update to the Galaxy S23 series in Europe and some ...",
+    "url": "https://www.sammobile.com/news/galaxy-s23-android-14-one-ui-6-0-stable-update-usa/",
+    "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/10/Galaxy-S23-Android-14-One-UI-6-update-1-720x405.jpg",
+    "publishedAt": "2023-11-10T06:26:00Z",
+    "content": "A few weeks ago, Samsung released the stable Android 14 update to the Galaxy S23 series in Europe and some Asian countries. Now, the company has finally released the stable Android 14-based One UI 6.… [+1670 chars]"
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": "Richard Henderson, Alexander Nicholson",
+    "title": "Stock Market Today: Dow, S&P Live Updates for November 10 - Bloomberg",
+    "description": "European equities fell, tracking a global retreat after Federal Reserve Chair Jerome Powell warned interest rates may have to climb further. The pound swung between gains and losses as UK data showed the economy stagnating.",
+    "url": "https://www.bloomberg.com/news/articles/2023-11-09/stock-market-today-dow-s-p-live-updates",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIz5UF8bgWeo/v0/1200x800.jpg",
+    "publishedAt": "2023-11-10T05:15:00Z",
+    "content": "European equities fell, tracking a global retreat after Federal Reserve Chair Jerome Powell warned interest rates may have to climb further. The pound swung between gains and losses as UK data showed… [+396 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Louisville rallies past Virginia as No. 11 Cardinals inch closer to ACC Championship Game berth - CBS Sports",
+    "description": "The Cardinals overcame a disastrous third quarter to escape with the victory",
+    "url": "https://www.cbssports.com/college-football/news/louisville-rallies-past-virginia-as-no-11-cardinals-inch-closer-to-acc-championship-game-berth/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/11/10/f8b95fea-8d23-4142-bff1-ae190faa3ea6/thumbnail/1200x675/4739bc453560861d4d3b400a7be35883/louisville.jpg",
+    "publishedAt": "2023-11-10T05:12:00Z",
+    "content": "No. 11 Louisville needed a late rally, but eventually took down upset minded Virginia 31-24 Thursday night. The win inches the Cardinals closer to an ACC Championship Game berth and keeps lingering C… [+2609 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Katie Campione",
+    "title": "Jimmy Fallon, More Late Night Hosts Weigh In On End Of Actors Strike: “Take Yourself Back To Work Day” In Hollywood - Deadline",
+    "description": "The end of the actors strike is the talk of the town, and late night is no exception. “Thank you for joining us on ‘take yourself back to work day’ here in Hollywood,” Jimmy…",
+    "url": "https://deadline.com/2023/11/late-night-hosts-weigh-in-end-of-actors-strike-comments-kimmel-fallon-1235599250/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-09-at-8.50.50-PM.png?w=1000",
+    "publishedAt": "2023-11-10T04:54:00Z",
+    "content": "The end of the actors strike is the talk of the town, and late night is no exception.\r\n“Thank you for joining us on ‘take yourself back to work day’ here in Hollywood,” Jimmy Kimmel said during his o… [+2446 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Carolina Panthers vs. Chicago Bears | 2023 Week 10 Game Highlights - NFL",
+    "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+    "url": "https://www.youtube.com/watch?v=lfxxIv9sIj0",
+    "urlToImage": "https://i.ytimg.com/vi/lfxxIv9sIj0/maxresdefault.jpg",
+    "publishedAt": "2023-11-10T04:20:07Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Nintendo Life"
+    },
+    "author": "Liam Doolan",
+    "title": "Valve Announces Steam Deck OLED, Says Switch OLED Paved The Way - Nintendo Life",
+    "description": "\"It's just a great product from Nintendo\"",
+    "url": "https://www.nintendolife.com/news/2023/11/valve-announces-steam-deck-oled-says-switch-oled-paved-the-way",
+    "urlToImage": "https://images.nintendolife.com/2d334ba7ed014/1280x720.jpg",
+    "publishedAt": "2023-11-10T04:12:59Z",
+    "content": "Subscribe to Nintendo Life on YouTube\r\nGame company Valve, responsible for series like Half-Life and Portal, has today announced the Steam Deck OLED, a follow-up to its original portable device with … [+1939 chars]"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Lauren Irwin",
+    "title": "Biden trolls Trump after election night victories: ‘We haven’t stopped winning’ - The Hill",
+    "description": "At a Thursday fundraising event in Chicago, President Biden trolled Republicans after Democrats secured several victories on election night. “Democrats had an incredible night once again,” Biden said at the event, touting Democrats out-performing Republicans,…",
+    "url": "https://thehill.com/homenews/campaign/4303571-biden-trolls-republicans-after-election-night-victories/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/11/Politics-Biden_110923_AP_Evan-Vucci.jpg?w=1280",
+    "publishedAt": "2023-11-10T04:09:00Z",
+    "content": "Skip to content\r\nAt a Thursday fundraising event in Chicago, President Biden trolled Republicans after Democrats secured several victories on election night.\r\n“Democrats had an incredible night once … [+1121 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Luke Barr",
+    "title": "Former Baltimore prosecutor Marilyn Mosby found guilty of perjury - ABC News",
+    "description": "Mosby was the state's attorney from 2015 to 2023.",
+    "url": "https://abcnews.go.com/US/former-baltimore-prosecutor-marilyn-mosby-found-guilty-perjury/story?id=104772818",
+    "urlToImage": "https://i.abcnewsfe.com/a/c8377b6f-9c57-4d46-8454-0169456c05d6/marilyn-mosby-ap-lv-231109_1699572971503_hpMain_16x9.jpg?w=992",
+    "publishedAt": "2023-11-10T03:28:42Z",
+    "content": "Former Baltimore City State's Attorney Marilyn Mosby was found guilty on Thursday of two counts of perjury by a federal jury in Maryland.\r\nMosby, who was Baltimore's highest-ranking prosecutor from 2… [+1685 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Bloodlines and Bloodsuckers: Tracing Human Migration and Colonization in the Americas Through Lice - SciTechDaily",
+    "description": "Global genetic study of lice suggests they arrived twice in the New World on human hosts. A new analysis of lice genetic diversity suggests that lice came to the Americas twice – once during the first wave of human migration across the Bering Strait, and agai…",
+    "url": "https://scitechdaily.com/?p=326495",
+    "urlToImage": "https://scitechdaily.com/images/Head-Louse.jpg",
+    "publishedAt": "2023-11-10T03:16:12Z",
+    "content": "ByPLOSNovember 9, 2023\r\nContact between Europeans and Native Americans is recorded in the DNA of head lice. Credit: Vincent Smith, Natural History Museum, London, CC-BY 4.0\r\nGlobal genetic study of l… [+4287 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Priscilla Alvarez, Alex Marquardt",
+    "title": "Biden administration privately warned by American diplomats of growing fury against US in Arab world - CNN",
+    "description": "The Biden administration has received stark warnings from American diplomats in the Arab world that its strong support for Israel’s destructive and deadly military campaign in Gaza “is losing us Arab publics for a generation,” according to a diplomatic cable …",
+    "url": "https://www.cnn.com/2023/11/09/politics/biden-diplomats-warn-middle-east-fury/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231109010525-04-israel-gaza-gallery-110923.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-11-10T03:13:00Z",
+    "content": "The Biden administration has received stark warnings from American diplomats in the Arab world that its strong support for Israels destructive and deadly military campaign in Gaza is losing us Arab p… [+3985 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Heat.com"
+    },
+    "author": null,
+    "title": "Pool Report on the ejection of Adrian Griffin during the third quarter of tonight's Milwaukee Bucks at Indiana Pacers Game - NBA Official",
+    "description": "The Pool Report interview was conducted by Dustin Dopirak (Indianapolis Star) with Crew Chief Kevin Cutler following tonight’s Bucks at Pacers game.     QUESTION:  Why was Adrian Griffin assessed a double technical foul and ejected in the third period? CUTLER…",
+    "url": "https://official.nba.com/pool-report-on-the-ejection-of-adrian-griffin-during-the-third-quarter-of-tonights-milwaukee-bucks-at-indiana-pacers-game/",
+    "urlToImage": null,
+    "publishedAt": "2023-11-10T03:09:41Z",
+    "content": "The Pool Report interview was conducted by Dustin Dopirak (Indianapolis Star) with Crew Chief Kevin Cutler following tonights Bucks at Pacers game.     \r\nQUESTION:  Why was Adrian Griffin assessed a … [+281 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hawk Central"
+    },
+    "author": "Dargan Southard",
+    "title": "Caitlin Clark guides No. 3 Iowa women's basketball to tough win over No. 5 Virginia Tech - Hawk Central",
+    "description": "It's wasn't the most efficient night for Caitlin Clark, but Iowa's superstar thrived in crunch time to lift Iowa to a big win over Virginia Tech.",
+    "url": "https://www.hawkcentral.com/story/sports/college/iowa/basketball-women/2023/11/09/iowa-womens-basketball-holds-off-virginia-tech-behind-caitlin-clarks/71518548007/",
+    "urlToImage": "https://www.hawkcentral.com/gcdn/authoring/authoring-images/2023/11/10/PDEM/71526740007-usatsi-21859454.jpg?crop=5853,3293,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+    "publishedAt": "2023-11-10T03:04:46Z",
+    "content": "CHARLOTTE The high-flying product that Iowa women's basketball loves to lean on remained grounded much longer than usual in Thursday's high-profile showdown, one that was supposed to pour in the poin… [+4726 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Pete Schroeder, Zeba Siddiqui",
+    "title": "China's biggest lender ICBC hit by ransomware attack - Reuters",
+    "description": "The Industrial and Commercial Bank of China's (ICBC) U.S. arm was hit by a ransomware attack that disrupted trades in the U.S. Treasury on Thursday, the latest in a string of victims ransom-demanding hackers have claimed this year.",
+    "url": "https://www.reuters.com/world/china/chinas-largest-bank-icbc-hit-by-ransomware-software-ft-2023-11-09/",
+    "urlToImage": "https://www.reuters.com/resizer/826xAfiN7V8t-docuRfoiVUuzQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4TDXCPGCFVIONOBSA7IY45TYRA.jpg",
+    "publishedAt": "2023-11-10T02:58:00Z",
+    "content": "Nov 9 (Reuters) - The Industrial and Commercial Bank of China's (ICBC) U.S. arm was hit by a ransomware attack that disrupted trades in the U.S. Treasury on Thursday, the latest in a string of victim… [+4570 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Brawl erupts between Israel, and Palestinian supporters outside L.A.'s Museum of Tolerance - KTLA 5",
+    "description": "Altercations between pro-Israeli and pro-Palestinian supporters were captured on video outside a film screening at the Museum of Tolerance in West Los Angele...",
+    "url": "https://www.youtube.com/watch?v=oZY2tunQwtc",
+    "urlToImage": "https://i.ytimg.com/vi/oZY2tunQwtc/maxresdefault.jpg",
+    "publishedAt": "2023-11-10T02:06:48Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Joe Sutton",
+    "title": "Apollo astronaut Frank Borman dead at 95 - CNN",
+    "description": "Apollo astronaut Col. Frank Borman, who commanded the first mission to orbit the moon, has died in Billings, Montana, NASA announced.",
+    "url": "https://www.cnn.com/2023/11/09/us/frank-borman-apollo-astronaut-obit-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231109171352-01-frank-borman-gemini-7.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-11-10T01:54:18Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nApollo astronaut Col. Frank Borman, who commanded the … [+1140 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Beast"
+    },
+    "author": "AJ McDougall",
+    "title": "Paul Pelosi Attack Suspect's Lawyer Lays Out Wild Argument as Trial Kicks Off - The Daily Beast",
+    "description": "David DePape’s attorney said the case was not a “whodunit” but a “whydunit,” explaining that her client believed certain conspiracy theories “with every ounce of his being.”",
+    "url": "https://www.thedailybeast.com/paul-pelosi-attack-suspect-david-depapes-lawyer-lays-out-wild-argument-as-federal-trial-kicks-off",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_657,w_1168,x_0,y_83/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1699578208/GettyImages-1438030993_klduaa",
+    "publishedAt": "2023-11-10T01:39:00Z",
+    "content": "The man accused of bludgeoning former House Speaker Nancy Pelosis husband with a hammer in Oct. 2022 was driven by a bizarre, misguided plan based on the right-wing conspiracy theories with which hed… [+4877 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Vanessa Arredondo",
+    "title": "Chikungunya virus: FDA OKs first vaccine for people 18 years or older - USA TODAY",
+    "description": "According to the FDA, The most common symptoms of chikungunya are fever and debilitating joint pain, which may persist for months or years.",
+    "url": "https://www.usatoday.com/story/news/nation/2023/11/09/chikungunya-virus-vaccine-fda-approval/71523742007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/10/USAT/71524412007-afp-afp-pb-4-iv.JPG?crop=2396,1349,x0,y124&width=2396&height=1349&format=pjpg&auto=webp",
+    "publishedAt": "2023-11-10T01:33:18Z",
+    "content": "The U.S. Food and Drug Administration on Thursday approved the first vaccine against chikungunya virus, a disease that is primarily transmitted to people through infected mosquito bites. \r\nThe vaccin… [+3340 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "J. Kim Murphy",
+    "title": "Marvel Delays ‘Deadpool 3,’ ‘Captain America 4’ and ‘Thunderbolts’ in Post-Strike Disney Release Shake-Up - Variety",
+    "description": "The Walt Disney Company has shaken up its release calendar post-SAG-AFTRA strike, delaying its 2024 Marvel titles as well as its \"Lion King\" prequel.",
+    "url": "https://variety.com/2023/film/news/deadpool-3-captain-america-4-lion-king-prequel-delayed-1235786760/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2018/05/deadpool-2-7.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2023-11-10T01:04:00Z",
+    "content": "After months of speculation amid the work stoppage caused by the recently ended SAG-AFTRA strike, “Deadpool 3” is being delayed by the Walt Disney Company. The comic book threequel has vacated its Ma… [+2773 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Suspicious letters, some containing fentanyl, mailed to multiple election offices - CBS Evening News",
+    "description": "More than a dozen letters containing a suspicious white powder, including some that tested positive for fentanyl, were sent to election offices in at least f...",
+    "url": "https://www.youtube.com/watch?v=hWPdEfdzY5c",
+    "urlToImage": "https://i.ytimg.com/vi/hWPdEfdzY5c/maxresdefault.jpg",
+    "publishedAt": "2023-11-10T01:02:49Z",
+    "content": null
+  }
+]
+}
